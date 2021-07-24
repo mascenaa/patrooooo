@@ -1,7 +1,7 @@
 ### Heyy 🤠
 
 Welcome to my profile, I hope you enjoy this trip. Actually I am focused on Front-End, but I am ready for new experiences! 🌌
-- *My name is João Pedro* 🦇 ㅤ
+- **My name is João Pedro** 🦇 ㅤ
 - **I have 16 years old 😺**ㅤㅤㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤㅤㅤ ㅤ
 - **I am from São Paulo, Brazil.** 💚ㅤ
 
