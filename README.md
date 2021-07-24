@@ -1,4 +1,4 @@
-### Heyy 🤠
+### Heyy everyone! 🤠
 
 Welcome to my profile, I hope you enjoy this trip. Actually I am focused on Front-End, but I am ready for new experiences! 🌌
 - **My name is João Pedro** 🦇 ㅤ
