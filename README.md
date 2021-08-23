@@ -25,5 +25,6 @@ Welcome to my profile, I hope you enjoy this trip. Actually I am focused on Fron
 	<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 	<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 	
+	##.
 	
 	![Patro GitHub stats](https://github-readme-stats.vercel.app/api?username=patrooooo&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrooooo)
